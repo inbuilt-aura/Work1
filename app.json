@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "Work1",
-    "slug": "Work1"
+    "name": "jobsift",
+    "slug": "jobsift"
   }
 }
